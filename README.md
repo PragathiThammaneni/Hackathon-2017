@@ -1,9 +1,6 @@
 # Hackathon-2017
 
 
-This Project includes Resume Filtering Functionality 
-Contributors:
-    Pragathi Thammaneni
-    Sridevi Mallipudi
-    Chanikya Merugu
-                
+Wiki Link for TResume Filtering
+
+https://github.com/PragathiThammaneni/Hackathon-2017/wiki/Resume-Filtering
