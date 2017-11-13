@@ -7,7 +7,7 @@ function uploadFiles(form) {
   
   try {
     
-    var dropbox = "Work_Collector";
+    var dropbox = "Resume_Collector";
     var folder, folders = DriveApp.getFoldersByName(dropbox);
     
     if (folders.hasNext()) {
